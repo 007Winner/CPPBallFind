@@ -61,7 +61,7 @@ Clone this repository to your local device. Either:
 * Clone the https://github.com/007Winner/CPPBallFind repository from GitHub Desktop
 * Download the project as a ZIP file on your web browser at https://github.com/007Winner/BallFind
 
-- WINDOWS (Compile with CMake)
+-WINDOWS (Compile with CMake)
 * cd to the src folder
 * run the following commands on cmd:
   !cmake -S . -B build
@@ -69,7 +69,7 @@ Clone this repository to your local device. Either:
   !cmake --build .
 * Running the above commands will create a .exe of the project.
 
-- LINUX (Compile with CMake)
+-LINUX (Compile with CMake)
 * cd to the src folder
 * run the following commands on terminal:
   !cmake -S . -B build
