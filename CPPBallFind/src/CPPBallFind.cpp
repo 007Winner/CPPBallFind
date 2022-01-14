@@ -6,7 +6,7 @@ using namespace cv;
 int main(int argc, char**argv)
 {
 	if (argc != 2) {
-		cout << "Built" << endl;
+		cout << "Wrong number of arguments. Format should be !./CPPBallFind <videoname>" << endl;
 	}
 	else {
 		auto path = filesystem::current_path();
